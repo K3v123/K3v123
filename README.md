@@ -2,9 +2,11 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Kevin a software engineering student passionate about solving real-world problems.<br>      I love brainstorming unique ideas and sharing them with my team to tackle challenges creatively.<br><img src="images/panda.jpg.jpg" alt="Panda" width="24" height="24">
- I’m always open to collaborating on meaningful projects or contributing to open-source software. Let’s connect!
- Let’s connect!<br><br>Beyond coding, I have a keen interest in history, and gaming, which inspire my creative approach to solving complex challenges. I aim to create software that not only works but makes life better for users. I’m open to internships, collaborative projects, and opportunities to grow as a developer.
+👋 Hi, I'm Kevin a software engineering student passionate about solving real-world problems.<br> 
+I love brainstorming unique ideas and sharing them with my team to tackle challenges creatively. 
+<br> 🌱 I’m always open to collaborating on meaningful projects or contributing to open-source software.
+Let’s connect! <img src="images/panda.jpg" alt="Panda" width="50" height="50" style="vertical-align: middle; margin-left: 5px;"> <br>
+<br><br>Beyond coding, I have a keen interest in history, and gaming, which inspire my creative approach to solving complex challenges. I aim to create software that not only works but makes life better for users. I’m open to internships, collaborative projects, and opportunities to grow as a developer.
 
 
 # 💻 Tech Stack:
