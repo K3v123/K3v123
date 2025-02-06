@@ -25,9 +25,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "
           # Define the output files and their configurations
-          outputs: |
+          outputs: "K3v123"
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
